@@ -17,10 +17,10 @@
       "is_active": true,
 
       "key_features": [
-        "Feature description 1.",
-        "Feature description 2.",
-        "Feature description 3.",
-        "Feature description 4."
+        "📌Flexible Routing: Send notifications to a Telegram group, user, or both.",
+        "🔄 Seamless Setup: Simple onboarding with automatic retrieval of user or group IDs.",
+        "⚡ Real-Time Forwarding: Instantly relays messages from Telex to Telegram.",
+        "🔔 Custom Notifications: Organizations can configure which types of messages to forward on the Telex channel."
       ],
       "permissions": {
         "monitoring_user": {
