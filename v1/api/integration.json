@@ -1,0 +1,48 @@
+{
+    "data": {
+      "date": {
+        "created_at": "2025-02-18",
+        "updated_at": "2025-02-18"
+      },
+      "descriptions": {
+        "app_description": "Telex2telegram Alerts to send forward all messages to telegram",
+        "app_logo": "https://telexbot.samayo.com.ng/telex2telegram-alert/v1/assets/misc/alert.png",
+        "app_name": "Telex2telegram Alerts",
+        "app_url": "https://t.me/TelexAlert_bot",
+        "background_color": "##fff"
+      },
+      "integration_category": "Monitoring & Logging",
+      "author": "Samuel Ayomide",
+      "integration_type": "output",
+      "is_active": true,
+
+      "key_features": [
+        "Feature description 1.",
+        "Feature description 2.",
+        "Feature description 3.",
+        "Feature description 4."
+      ],
+      "permissions": {
+        "monitoring_user": {
+          "always_online": true,
+          "display_name": "Report to Telegram"
+        }
+      },
+      "settings": [
+        {
+          "label": "Group ID",
+          "type": "text",
+          "required": true,
+          "default": ""
+        },
+        {
+          "label": "User ID",
+          "type": "text",
+          "required": true,
+          "default": ""
+        }
+      ],
+      "target_url": "https://telexbot.samayo.com.ng/telex2telegram-alert/v1/api/index"
+    }
+}
+
